@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @YazanHussein
-- 👀 I’m interested in UX Design and interesting projects 
-- 🌱 I’m currently learning 
+- 👋 Hi, I’m @YazanHussein 
+- 👀 I’m interested in UX Design and Product Management
+- 🌱 I’m currently learning interpersonal skills and strategic thinking.
 - 💞️ I’m looking to collaborate on Building exciting applications
-- 📫 How to reach me www.yhaloudi.com
+- 📫 How to reach me www.yazanjaloudi.tech or yhjaloudi@gmail.com
 
 <!---
 YazanHussein/YazanHussein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
