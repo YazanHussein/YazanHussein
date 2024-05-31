@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YazanHussein 
-- 👀 I’m interested in UX Design and Product Management
+- 👀 I’m interested in UX/UI and Frontend Development
 - 🌱 I’m currently learning interpersonal skills and strategic thinking.
 - 💞️ I’m looking to collaborate on Building exciting applications
 - 📫 How to reach me www.yazanjaloudi.tech or yhjaloudi@gmail.com
